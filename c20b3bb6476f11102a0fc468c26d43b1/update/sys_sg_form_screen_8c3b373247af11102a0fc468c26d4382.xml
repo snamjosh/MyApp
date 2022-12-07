@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">f72b7ffe476f11102a0fc468c26d433c</icon>
+        <item_view/>
+        <name>Accessory Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 22:54:43</sys_created_on>
+        <sys_id>8c3b373247af11102a0fc468c26d4382</sys_id>
+        <sys_name>Accessory Form Screen</sys_name>
+        <sys_package display_value="sntraining" source="x_16182_sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_scope>
+        <sys_update_name>sys_sg_form_screen_8c3b373247af11102a0fc468c26d4382</sys_update_name>
+        <table>cmdb_ci_acc</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Accessory Detail Screen View Config">bb2b373247af11102a0fc468c26d434f</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c3b373247af11102a0fc468c26d4382"/>
+</record_update>

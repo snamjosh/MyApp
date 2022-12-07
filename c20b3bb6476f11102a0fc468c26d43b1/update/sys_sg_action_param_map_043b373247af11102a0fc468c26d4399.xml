@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Accessory)">443b373247af11102a0fc468c26d4390</button>
+        <item_parameter display_value="Accessory assigned_to">c83b373247af11102a0fc468c26d438c</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 22:54:43</sys_created_on>
+        <sys_id>043b373247af11102a0fc468c26d4399</sys_id>
+        <sys_name>c83b373247af11102a0fc468c26d438c</sys_name>
+        <sys_package display_value="sntraining" source="x_16182_sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_043b373247af11102a0fc468c26d4399</sys_update_name>
+        <ui_parameter display_value="Assigned to">c43b373247af11102a0fc468c26d4392</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

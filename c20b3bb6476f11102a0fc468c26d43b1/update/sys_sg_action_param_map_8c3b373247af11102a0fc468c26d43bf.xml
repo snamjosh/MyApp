@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Accessory)">483b373247af11102a0fc468c26d43bb</button>
+        <item_parameter display_value="Accessory asset_tag">c83b373247af11102a0fc468c26d43b7</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 22:54:43</sys_created_on>
+        <sys_id>8c3b373247af11102a0fc468c26d43bf</sys_id>
+        <sys_name>c83b373247af11102a0fc468c26d43b7</sys_name>
+        <sys_package display_value="sntraining" source="x_16182_sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_8c3b373247af11102a0fc468c26d43bf</sys_update_name>
+        <ui_parameter display_value="Asset tag">843b373247af11102a0fc468c26d43bc</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

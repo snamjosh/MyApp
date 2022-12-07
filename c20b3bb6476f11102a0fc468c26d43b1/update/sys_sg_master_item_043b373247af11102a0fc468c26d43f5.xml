@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>ecc_action</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Action Form Screen">003b373247af11102a0fc468c26d43f4</embedded_screen>
+        <item_view/>
+        <name>Action master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 22:54:44</sys_created_on>
+        <sys_id>043b373247af11102a0fc468c26d43f5</sys_id>
+        <sys_name>Action master_item</sys_name>
+        <sys_package display_value="sntraining" source="x_16182_sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_scope>
+        <sys_update_name>sys_sg_master_item_043b373247af11102a0fc468c26d43f5</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Action List Screen View Config">0c3b373247af11102a0fc468c26d43c6</view_config>
+    </sys_sg_master_item>
+</record_update>

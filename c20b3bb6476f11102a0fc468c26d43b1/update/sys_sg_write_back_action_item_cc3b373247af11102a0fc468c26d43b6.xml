@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (Accessory)</name>
+        <parameter_screen/>
+        <query_condition table="cmdb_ci_acc">sys_idSTARTSWITH{{Accessory sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Accessory sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 22:54:43</sys_created_on>
+        <sys_id>cc3b373247af11102a0fc468c26d43b6</sys_id>
+        <sys_name>Edit (Accessory)</sys_name>
+        <sys_package display_value="sntraining" source="x_16182_sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sntraining">c20b3bb6476f11102a0fc468c26d43b1</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_cc3b373247af11102a0fc468c26d43b6</sys_update_name>
+        <table>cmdb_ci_acc</table>
+        <template>asset={{Accessory asset}}^asset_tag={{Accessory asset_tag}}^assigned={{Accessory assigned}}^assigned_to={{Accessory assigned_to}}^assignment_group={{Accessory assignment_group}}^attestation_score={{Accessory attestation_score}}^attestation_status={{Accessory attestation_status}}^attested={{Accessory attested}}^attested_by={{Accessory attested_by}}^attested_date={{Accessory attested_date}}^attributes={{Accessory attributes}}^business_unit={{Accessory business_unit}}^can_print={{Accessory can_print}}^category={{Accessory category}}^change_control={{Accessory change_control}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc3b373247af11102a0fc468c26d43b6"/>
+</record_update>
